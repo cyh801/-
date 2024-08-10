@@ -1,7 +1,7 @@
 {
-    "armor.nucleartech.blast_protection": "폭발에 대한 %s 의 보호",
-    "armor.nucleartech.custom_geiger": "내장 가이거 카운터 HUD",
-    "armor.nucleartech.damage_cap": "%s의 하드 데미지 캡",
+    "armor.nucleartech.blast_protection": "%s的防爆保护",
+    "armor.nucleartech.custom_geiger": "内置盖革计数器HUD",
+    "armor.nucleartech.damage_cap": "%s的硬伤害上限",
     "armor.nucleartech.damage_modifier": "%s의 일반 보호",
     "armor.nucleartech.damage_resistance_modifier": "%s에 대한 %s의 보호",
     "armor.nucleartech.damage_threshold": "손상 임계값 %s",
